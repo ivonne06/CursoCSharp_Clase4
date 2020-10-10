@@ -1,0 +1,17 @@
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SegurosElFeliz\bin\Debug\SegurosElFeliz.exe.config
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SegurosElFeliz\bin\Debug\SegurosElFeliz.exe
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SegurosElFeliz\bin\Debug\SegurosElFeliz.pdb
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SegurosElFeliz\bin\Debug\SEFEntidades.dll
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SegurosElFeliz\bin\Debug\SEFNegocios.dll
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SegurosElFeliz\bin\Debug\SEFDatos.dll
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SegurosElFeliz\bin\Debug\SEFEntidades.pdb
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SegurosElFeliz\bin\Debug\SEFNegocios.pdb
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SegurosElFeliz\bin\Debug\SEFDatos.pdb
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SegurosElFeliz\obj\Debug\SegurosElFeliz.csprojAssemblyReference.cache
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SegurosElFeliz\obj\Debug\SegurosElFeliz.Form1.resources
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SegurosElFeliz\obj\Debug\SegurosElFeliz.Properties.Resources.resources
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SegurosElFeliz\obj\Debug\SegurosElFeliz.csproj.GenerateResource.cache
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SegurosElFeliz\obj\Debug\SegurosElFeliz.csproj.CoreCompileInputs.cache
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SegurosElFeliz\obj\Debug\SegurosElFeliz.csproj.CopyComplete
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SegurosElFeliz\obj\Debug\SegurosElFeliz.exe
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SegurosElFeliz\obj\Debug\SegurosElFeliz.pdb

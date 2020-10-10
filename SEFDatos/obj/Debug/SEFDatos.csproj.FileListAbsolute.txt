@@ -1,0 +1,9 @@
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SEFDatos\bin\Debug\SEFDatos.dll
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SEFDatos\bin\Debug\SEFDatos.pdb
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SEFDatos\bin\Debug\SEFEntidades.dll
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SEFDatos\bin\Debug\SEFEntidades.pdb
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SEFDatos\obj\Debug\SEFDatos.csprojAssemblyReference.cache
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SEFDatos\obj\Debug\SEFDatos.csproj.CoreCompileInputs.cache
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SEFDatos\obj\Debug\SEFDatos.csproj.CopyComplete
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SEFDatos\obj\Debug\SEFDatos.dll
+C:\Users\EPADILLA\source\repos\SegurosElFeliz\SEFDatos\obj\Debug\SEFDatos.pdb
